@@ -111,5 +111,3 @@ This project implements a **real-time Vehicle Tracking System** using **YOLOv8**
 ## 🎯 Conclusion
 
 This **real-time vehicle tracking system** is a **highly efficient solution** for **automated traffic monitoring, fleet management, and surveillance applications**. With **YOLOv8's accuracy, ByteTrack's efficiency, and a GUI-based control system**, it delivers **high performance** on **edge devices**.
-
-🔗 **Feel free to contribute!** Fork the repo, submit issues, and collaborate. 🚀
