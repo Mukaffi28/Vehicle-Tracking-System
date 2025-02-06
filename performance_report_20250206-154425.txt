@@ -1,0 +1,16 @@
+YOLOv8 Performance Report
+========================
+
+Average FPS: 15.01
+
+Resource Usage:
+CPU Usage: 1.4%
+Memory Usage: 9.0/15.9 GB
+GPU Load: 9.0%
+GPU Memory: 1200.0/16380.0 MB
+
+Model Configuration:
+Device: cuda
+Confidence Threshold: 0.5
+IoU Threshold: 0.5
+Max Detections: 100
