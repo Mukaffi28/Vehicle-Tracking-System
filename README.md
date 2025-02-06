@@ -72,7 +72,7 @@ This project implements a **real-time Vehicle Tracking System** using **YOLOv8**
 
 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/your-repo/vehicle-tracking-yolov8.git
+   git clone https://github.com/Mukaffi28/Vehicle-Tracking-System.git
    cd vehicle-tracking-yolov8
    ```
 
